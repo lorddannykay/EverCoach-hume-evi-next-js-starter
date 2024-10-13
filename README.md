@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ZW52iZLCikKMTroJU44kUZmhNFkB1OGpQ&s">
   <h1>EVI Next.js App Router Example</h1>
 </div>
 
