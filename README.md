@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ZW52iZLCikKMTroJU44kUZmhNFkB1OGpQ&s">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Foundever_logo.svg/2560px-Foundever_logo.svg.png">
   <h1>EVI Next.js App Router Example</h1>
 </div>
 
